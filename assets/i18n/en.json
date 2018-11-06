@@ -1,0 +1,47 @@
+{
+    "app_title": "Meme-Viewer",
+    "langs": {
+      "de": "Deutsch",
+      "en": "English"
+    },
+    "filter": {
+      "title": "Filter"
+    },
+    "actions": {
+      "like": "Like",
+      "share": "Share",
+      "download": "Download"
+    },
+    "filter_actions": {
+      "restore": "Restore defaults",
+      "random": "Random",
+      "apply": "Apply filter"
+    },
+    "meme_type": {
+      "label": "Type",
+      "all": "All",
+      "img": "Images",
+      "gif": "GIFs"
+    },
+    "placeholders": {
+      "search": "Search..."
+    },
+    "tooltips": {
+      "open_filter": "Open filter",
+      "close_filter": "Close filter",
+      "help": "Help",
+      "language": "Select language",
+      "submit": "Submit",
+      "next_meme": "Next meme",
+      "previous_meme": "Previous meme"
+    },
+    "provided_by": "Images provided by",
+    "created_by": "Created by Andri Wandres",
+    "copied_snackbar": "Copied link to clipboard",
+    "help": {
+      "close": "Close",
+      "title": "Help - Video",
+      "message": "Here is a short video tutorial on how to use the Meme-Viewer. Have fun!"
+    }
+  }
+  
